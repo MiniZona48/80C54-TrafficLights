@@ -12,4 +12,6 @@ My implementation of the Traffic Light based on the 80C54 microcontroller
 
 ---
 
+![Режимы работы](/images/mode.jpg)
+
 ## О проекте
