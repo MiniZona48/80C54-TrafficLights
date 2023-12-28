@@ -1,6 +1,6 @@
 # 80C54-TrafficLights
 
-My implementation of the Traffic Light based on the 80C54 microcontroller
+Моя реализация светофора на базе микроконтроллера 80С54.
 
 ## Q&A
 
@@ -20,3 +20,7 @@ My implementation of the Traffic Light based on the 80C54 microcontroller
 - Режим ожидания, когда пешеход должен нажать на кнопку, чтобы перейти дорогу.
 
 ![Режимы работы](/images/mode.jpg)
+
+Реализован же светофор по следующей схеме:
+
+![Режимы работы](/images/scheme.jpg)
